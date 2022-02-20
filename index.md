@@ -25,4 +25,4 @@ champalimaud
 bytech - online store
 ```
 
-contact me -> mailto:ricardo_luis19@hotmail.com
+[contact me](mailto:ricardo_luis19@hotmail.com)
