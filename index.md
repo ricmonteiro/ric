@@ -1,8 +1,6 @@
 
-# ric monteiro
-
-### scientist, engineer & developer
-### i build cool things
+# scientist, engineer & developer
+## i build cool things
 
 ## my work
 
