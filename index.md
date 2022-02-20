@@ -17,7 +17,7 @@ Ximia
 ```
 
 ```markdown
-bytech online store
+bytech - online store
 ```
 
 
