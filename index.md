@@ -2,7 +2,7 @@
 # scientist, engineer & developer
 ## i build cool things
 
-## my work
+### *my work*
 
 ### [champalimaud](https://ricmonteiro.github.io/ccu_attention_documentation/) - software and hardware developer
 
@@ -16,7 +16,7 @@
 
 
 
-## writings/publications
+### *writings/publications*
 ### [imofind blog post](https://ricmonteiro.medium.com/too-good-to-be-true-posts-in-house-rental-website-with-python-beautiful-soup-794e4fefd7d0)
 
 
